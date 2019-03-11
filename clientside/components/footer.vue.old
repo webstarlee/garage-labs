@@ -1,0 +1,42 @@
+<template>
+    <footer class="footer-main">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <router-link to="/">
+                        <img width="90px" src="/vendor/img/logo-watermark.png" />
+                    </router-link>
+                    <p class="desc-footer">Shot Pro is a community of graphic designers and web where they share their latest and most impressive works - Show your Work!</p>
+                </div>
+                <div class="col-md-12 margin-tp-xs">
+                    <strong class="number-shots">396</strong> Shots -
+                    <strong class="number-shots">1.2k</strong> Designers
+                    <ul class="list-inline">
+                        <li><a href="http://twitter.com/MiguelVasquez08" class="ico-social"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.facebook.com/MiguelVasquezWeb" class="ico-social"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="http://instagram.com/" class="ico-social"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="http://www.linkedin.com" class="ico-social"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://www.plus.google.com/" class="ico-social"><i class="fa fa-google-plus"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-12">
+                    <ul class="list-inline">
+                        <li><a class="link-footer" href="#">Help</a></li>
+                        <li><a class="link-footer" href="#">Terms of Service</a></li>
+                        <li><a class="link-footer" href="#">Privacy</a></li>
+                        <li><a class="link-footer" href="#">Advertise with us</a></li>
+                        <li><a class="link-footer" href="#">About Us</a></li>
+                        <li><a class="link-footer" href="#">Be Pro</a></li>
+                        <li><a class="link-footer" href="#">API</a></li>
+                        <li>
+                            <a class="link-footer" href="#">English</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-12">
+                    <p>&copy; ShotPro - Community of Designers - 2016</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</template>

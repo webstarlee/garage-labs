@@ -1,0 +1,273 @@
+{
+	"menu": {
+		"start": {
+            "text": "Start",
+            "links": ["Proposer une start-up & trouver des associés", "Voir les start-ups", "Voir les co-fondateurs"],
+            "title": "Prêt à changer le monde ?",
+            "buttons": ["Proposer une startup"]
+        },
+        "build": {
+            "text": "Build",
+            "links": ["Poster un projet", "Voir les projets", "Voir les services", "Créer un service"],
+            "title": "Trouver des prestataires pour votre projet de startup",
+            "buttons": ["Poster un projet", "Voir les services proposés"]
+		},
+        "grow": {
+            "text": "Grow",
+            "links": ["Déposer un Dossier", "Voir les projets", "Voir les start-ups en recherche de fonds"],
+            "title": "Lever des fonds, trouver des investisseurs privés ou publics",
+            "buttons": ["Publier un projet de levée de fonds", "Me faire accompagner dans ma levée de fonds"]
+        },
+        "inscription": {
+            "text": "inscription"
+        },
+        "login": {
+            "text": "Login"
+        }
+    },
+    "login": {
+        "title": "Saisissez vos informations",
+        "signup_remind": "Vous n'avez pas encore de compte ?",
+        "signup_button": "M'inscrire",
+        "signin_button": "M'identifier",
+        "forgot_password_link": "Mot de passe oublié ?"
+    },
+    "register": {
+        "title": "Créer un compte",
+        "signin_remind": "Vous avez déjà un compte ?",
+        "signin_button": "M'identifier",
+        "signup_button": "M'identifier",
+        "i_am": "Vous êtes",
+        "at_least_one": "Au moins un",
+        "checkbox": ["Un prestataire (développeur, designer, avocat, ..)", "Un entrepreneur (créateur d’une start-up, ou à la recherche d’une aventure)", "Un investisseur"],
+        "skill": "Vos compétences",
+        "add_more_skills": "Ajouter une compétence",
+        "finish_register": "Finaliser mon inscription",
+        "confirm_term": "En soumettant ce formulaire, vous acceptez les conditions générales de vente du site PrestataireDigital.com"
+    },
+    "list_startup": {
+        "search": {
+            "title": "Recherche avancée",
+            "keyword": "Mots clés",
+            "checkbox_label": [
+                "Business plan/model réalisés",
+                "Produit/MVP existant",
+                "Premiers clients/preuve de viabilité",
+                "Tour(s) de table seffectué(s)"
+            ],
+            "skill_search": "Compétences recherchées",
+            "add_skill_link": "Ajouter une compétence",
+            "search_button": "Chercher"
+        }
+    },
+    "create_startup": {
+        "title": "Déposer un projet de start-up",
+        "step1": "Step 1",
+        "step2": "Step 2",
+        "step3": "Step 3",
+        "form_title": "Title",
+        "form_category": "Categories",
+        "form_add_more_categories": "Ajouter une catégorie",
+        "form_at_least_one": "Au moins un",
+        "form_researcher": "Je recherche",
+        "form_researcher_fund": "Recherche de fonds",
+        "form_concept": "Le concept",
+        "form_business_model": "Le business model",
+        "form_competitor": "Concurrents",
+        "form_logo": "Logo",
+        "step1_checkbox": ["Un/des associés", "Un investisseur"],
+        "form_next_button": "Suivant",
+        "form_back_button": "Precedent",
+        "step2_title": "Présentez votre équipe !",
+        "form_add_member": "Ajouter un membre",
+        "form_project_status": "Status d’avancement du projet",
+        "form_skill": "Compétences recherchées",
+        "form_add_more_skills": "Ajouter une compétence",
+        "form_partner": "Associés",
+        "form_website": "Site internet",
+        "form_video_url": "Vidéo URL",
+        "form_submit_button": "Créer ma startup",
+        "step3_checkbox": ["Idée", "Business plan/model réalisés", "Produit/MVP existant", "Premiers clients/preuve de viabilité", "Tour(s) de table seffectué(s)"]
+    },
+    "list_cofounder": {
+        "search": {
+            "title": "Recherche avancée",
+            "keyword": "Mots clés",
+            "checkbox": [
+                "Investisseur",
+                "Prestataire"
+            ],
+            "skill_search": "Compétences recherchées",
+            "add_skill_link": "Ajouter une compétence ",
+            "search_button": "Chercher"
+        }
+
+    },
+    "list_project": {
+        "search": {
+            "title": "Recherche avancée",
+            "checkbox": [
+                "Projets",
+                "Missions"
+            ],
+            "keyword": "Mots clés",
+            "skill_search": "Compétences ou technologies",
+            "search_button": "Chercher"
+        }
+    },
+    "create_project": {
+        "title": "Créer un projet/mission",
+        "step1": "Projet",
+        "step2": "Confirmation",
+        "form_title": "Title",
+        "form_category": "Categories",
+        "form_add_more_categories": "Ajouter une catégorie",
+        "form_description": "Description",
+        "form_skill": "Compétences",
+        "form_technology": "technologies",
+        "form_budget": "Budget",
+        "form_start_date": "Date de début",
+        "form_end_date": "Date de fin",
+        "form_attachment": "Pièces jointes",
+        "form_add_a_document": "Ajouter un document",
+        "form_next_button": "Suivant",
+        "form_cancel_button": "Annuler",
+        "form_submit_button": "Créer maintenant",
+        "form_type": "Type",
+        "form_contact_phone": "Contact téléphonique",
+        "form_show_phone_no": "Afficher le n° de téléphone",
+        "form_contact_email": "Contact email",
+        "form_show_email": "Afficher l'email"
+    },
+    "list_service": {
+        "search": {
+            "title": "Recherche avancée",
+            "category": "Categories",
+            "keyword": "Mots clés",
+            "search_button": "Chercher"
+        }
+    },
+    "accompany": {
+        "title": "Accélérez et sescurisez vitre levée de fonds",
+        "header": "THE GARAGE LABS VOUS ACCOMPAGNE",
+        "rows": [
+            "Analyse de viabilité business et faisabilité opérationnelle",
+            "Accompagnement à la levée de fonds publics (BPI, CIR, région, Europe)",
+            "Accompagnement à la levée de capitaux privés (investisseurs, fonds, IRF)",
+            "Accompagnement à la constitution de votre dossier de levée (business plan, model, proposition de valeur, viabilité et faisabilité business, plan de financement, valorisation technologique)",
+            "Recherche, ciblage et sélection d’investisseurs",
+            "Tenue des négociations et du closing"
+        ],
+        "buttons": ["DÉPOSER UN DOSSIER", "EN SAVOIR PLUS"]
+    },
+    "account_navigation": {
+        "menus": [
+            "Dashboard", 
+            "Projets créés",
+            "Projets prospectés",
+            "Start-ups crées",
+            "Start-up prospectées",
+            "Messages",
+            "Mon profil",
+            "Avatar et couverture",
+            "Mot de passe",
+            "Mes références",
+            "Company informations",
+            "Bank informations",
+            "My sold packages",
+            "My ordered packages",
+            "My services"
+        ]
+    },
+    "startup_detail": {
+        "category": "Catégorie",
+        "research": "Recherche",
+        "concept": "Le concept",
+        "business_model": "Le business model",
+        "competitor": "Les concurrents",
+        "avancement": "Avancement",
+        "avancement_checkbox": ["Idée", "Business plan / model", "Produit/MVP", "Premiers clients / preuve de viabilité", "Tour(s) de tables effectué(s)"],
+        "skill": "Compétences recherchées",
+        "profile_looking": "Plus d’infos sur le(s) profil(s) recherchés",
+        "website": "Site internet",
+        "video": "Vidéo du concept",
+        "fundraising": "Recherche de fonds",
+        "fundraising_exploitation": "ploitation de la levée de fonds",
+        "team": "L'équipe",
+        "amount_research": "Montant recherché",
+        "shares_ceded": "Parts sociales cédées",
+        "valorization_society": "Valorisation de la société",
+        "amounts_raised": "Montants déjà levés",
+        "add_member": "Ajouter un membre"
+    },
+    "project_detail": {
+        "skill_technology": "Skills/Technologies",
+        "description": "Description",
+        "project_begin": "Le projet commence",
+        "project_end": "Le projet se termine"
+    },
+    "email": {
+        "contact_was_created": {
+            "title": "Un prestataire a formulée une offre à l'un de vos startups.",
+            "text": "Pour accéder à votre fiche startup, cliquez ici :",
+            "link_text": "Gérer mon startup"
+        },
+        "member_invitation": {
+            "text": "Pour y accéder, cliquez ici :",
+            "link_text": "Join Mes projets"
+        },
+        "message_was_created": {
+            "title": "Vous avez reçu un nouveau message de",
+            "link_text": "Répondre"
+        },
+        "milestone_was_accept": {
+            "text": "Pour accéder à votre fiche milestone, cliquez ici :",
+            "link_text": "Gérer mon projet"
+        },
+        "milestone_was_approved": {
+            "text": "Pour accéder à votre fiche milestone, cliquez ici :",
+            "link_text": "Gérer mon projet"
+        },
+        "milestone_was_created": {
+            "text": "Pour accéder à votre fiche milestone, cliquez ici :",
+            "link_text": "Gérer mon projet"
+        },
+        "offer_was_updated": {
+            "title": "L'offre de votre projet a été mise à jour.",
+            "text": "Pour discuter des détails avec votre client, cliquez ici :",
+            "link_text": "Fil de discussion"
+        },
+        "package_was_funded": {
+            "text": "Pour accéder à votre fiche package, cliquez ici :",
+            "link_text": "Gérer mon projet"
+        },
+        "project_was_created": {
+            "title": "Votre projet a été créé avec succès.",
+            "text": "Pour y accéder, cliquez ici :",
+            "link_text": "Mes projets"
+        },
+        "proposal_was_accepted": {
+            "title": "Félicitations ! Vous avez remporté un projet.",
+            "text": "Pour discuter des détails avec votre client, cliquez ici :",
+            "link_text": "Mes projets"
+        },
+        "proposal_was_created": {
+            "title": "Un prestataire a formulée une offre à l'un de vos projets.",
+            "text": "Pour accéder à votre fiche projet, cliquez ici :",
+            "link_text": "Gérer mon projet"
+        },
+        "service_message_was_created": {
+            "title": "Vous avez reçu un nouveau message de",
+            "link_text": "Répondre"
+        },
+        "startup_message_was_created": {
+            "title": "Vous avez reçu un nouveau message de",
+            "link_text": "Répondre" 
+        },
+        "startup_was_created": {
+            "title": "Votre startup a été créé avec succès.",
+            "text": "Pour y accéder, cliquez ici :",
+            "link_text": "Mes projets"
+        }
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "menu": {
+        "start": {
+            "text": "Start",
+            "links": [
+                "To propose a start-up & to find associates",
+                "See start-ups ",
+                " See the co-founders"
+            ],
+            "links_1": "To propose a start-up & to find associates",
+            "links_2": "See start-ups",
+            "links_3": "See the co-founders",
+            "title": "Ready to change the world ?",
+            "buttons": [
+                "Submit a startup"
+            ]
+        },
+        "build": {
+            "text": "Build",
+            "links": [
+                "Post a project",
+                "View projects",
+                "View services",
+                "Create a service"
+            ],
+            "links_1": "Post a project",
+            "links_2": "View projects",
+            "links_3": "View services",
+            "links_4": "Create a services",
+            "title": "Find providers for your startup project",
+            "buttons": [
+                "Post a project",
+                "See the services offered"
+            ]
+        },
+        "grow": {
+            "text": "Grow",
+            "links": [
+                "Submit a File",
+                "See the projects",
+                "See the start-ups in search of funds"
+            ],
+            "links_1": "Submit a File",
+            "links_2": "See the projects",
+            "links_3": "See the start-ups in search of funds",
+            "title": "Raise funds, find private or public investors",
+            "buttons": [
+                "Publish a fundraising project",
+                "To accompany me in my fundraising"
+            ]
+        },
+        "inscription": {
+            "text": "Registration"
+        },
+        "login": {
+            "text": "Login"
+        }
+    },
+    "login": {
+        "title": "Enter your information",
+        "signup_remind": "Do not have an account yet ?",
+        "signup_button": "register",
+        "signin_button": "Me identify",
+        "forgot_password_link": "Forgot your password ?"
+    },
+    "userPassword": {
+        "title": "change my password",
+        "old_password": "old password",
+        "update": "update"
+    },
+    "register": {
+        "title": "Create an account",
+        "signin_remind": "Already have an account?",
+        "signin_button": "identify me",
+        "signup_button": "identify me",
+        "i_am": "You are",
+        "at_least_one": "At least one",
+        "checkbox": [
+            "A provider (developer, designer, lawyer, ..)",
+            "An entrepreneur (creator of a start-up, or looking for an adventure)",
+            "An investor"
+        ],
+        "skill": "Your skills",
+        "add_more_skills": "Add a skill",
+        "finish_register": "Finalize my registration",
+        "confirm_term": "By submitting this form, you accept the terms and conditions of sale of the PrestataireDigital.com website"
+    },
+    "list_startup": {
+        "search": {
+            "title": "Advanced search",
+            "keyword": "Keywords",
+            "checkbox_label": [
+                "Business plan / model realized",
+                "Existing product / MVP",
+                "First customers / proof of viability",
+                "Table tower (s) completed"
+            ],
+            "checkbox_label_0": "Business plan / model realized",
+            "checkbox_label_1": "Existing product / MVP",
+            "checkbox_label_2": "First customers / proof of viability",
+            "checkbox_label_3": "Table tower (s) completed",
+            "skill_search": "Requested skills",
+            "add_skill_link": "Add a skill",
+            "search_button": "Search"
+        }
+    },
+    "create_startup": {
+        "title": "Submit a start-up project",
+        "step1": "Step 1",
+        "step2": "Step 2",
+        "step3": "Step 3",
+        "form_title": "Title",
+        "form_category": "Categories",
+        "form_add_more_categories": "Add a category",
+        "form_at_least_one": "At least one",
+        "form_researcher": "I'm looking for",
+        "form_researcher_fund": "Fund Search",
+        "form_concept": "The concept",
+        "form_business_model": "The business model",
+        "form_competitor": "Competitors",
+        "form_logo": "Logo",
+        "step1_checkbox": [
+            "One or more associates",
+            "An investor"
+        ],
+        "form_next_button": "Next",
+        "form_back_button": "Previous",
+        "step2_title": "Introduce your team!",
+        "form_add_member": "Add a member",
+        "form_project_status": "Status of the project progress",
+        "form_skill": "Requested skills",
+        "form_add_more_skills": "Add a skill",
+        "form_partner": "Associates",
+        "form_website": "Website",
+        "form_video_url": "Video URL",
+        "form_submit_button": "Create my startup",
+        "step3_checkbox": [
+            "Idea",
+            "Business plan / model realized",
+            "Existing product / MVP",
+            "First customers / proof of viability",
+            "Table tower (s) completed"
+        ]
+    },
+    "list_cofounder": {
+        "search": {
+            "title": "Advanced search",
+            "keyword": "Keywords",
+            "checkbox": [
+                "Investor",
+                "Provider"
+            ],
+            "checkboxInvestor": "Investor",
+            "checkboxProvider": "Provider",
+            "skill_search": "Requested skills",
+            "add_skill_link": "Add a skill",
+            "search_button": "Search"
+        }
+    },
+    "list_project": {
+        "search": {
+            "title": "Advanced search",
+            "checkbox": [
+                "Projects",
+                "Missions"
+            ],
+            "checkboxProjects": "Projects",
+            "checkboxMissions": "Missions",
+            "keyword": "Keywords",
+            "skill_search": "Skills or technologies",
+            "search_button": "Search"
+        }
+    },
+    "create_project": {
+        "title": "Create a project / mission",
+        "step1": "Project",
+        "step2": "Confirmation",
+        "form_title": "Title",
+        "form_category": "Categories",
+        "form_add_more_categories": "Add a category",
+        "form_description": "Description",
+        "form_skill": "Skills",
+        "form_technology": "technologies",
+        "form_budget": "Budget",
+        "form_start_date": "Start date",
+        "form_end_date": "End date",
+        "form_attachment": "Attachments",
+        "form_add_a_document": "Add a document",
+        "form_next_button": "Next",
+        "form_cancel_button": "Cancel",
+        "form_submit_button": "Create now",
+        "form_type": "Type",
+        "form_contact_phone": "Telephone contact",
+        "form_show_phone_no": "Show phone number",
+        "form_contact_email": "Email contact",
+        "form_show_email": "Show email"
+    },
+    "list_service": {
+        "search": {
+            "title": "Advanced search",
+            "category": "Categories",
+            "keyword": "Keywords",
+            "search_button": "Search"
+        }
+    },
+    "accompany": {
+        "title": "Speed up and secure your fundraiser",
+        "header": "THE GARAGE LABS ACCOMPANY YOU",
+        "rows": [
+            "Business Viability Analysis and Operational Feasibility",
+            "Support to the raising of public funds (BPI, CIR, region, Europe)",
+            "Accompanying the raising of private capital (investors, funds, IRF)",
+            "Accompaniment to the constitution of your application file (business plan, model, value proposition, viability and business feasibility, financing plan, technological valuation)",
+            "Research, targeting and selection of investors",
+            "Holding negotiations and closing"
+        ],
+        "buttons": [
+            "SUBMIT A FILE",
+            "READ MORE"
+        ]
+    },
+    "account_navigation": {
+        "menus": [
+            "Dashboard",
+            "Projects created",
+            "Prospected projects",
+            "Start-ups created",
+            "Prospected Start-ups",
+            "Messages",
+            "My profile",
+            "Avatar and cover",
+            "Password",
+            "My references",
+            "Company information",
+            "Bank information",
+            "My sold packages",
+            "My ordered packages",
+            "My services"
+        ]
+    },
+    "startup_detail": {
+        "category": "Category",
+        "research": "Research",
+        "concept": "The concept",
+        "business_model": "The business model",
+        "competitor": "Competitors",
+        "advancement": "Progress",
+        "advancement_checkbox": [
+            "Idea",
+            "Business plan / model",
+            "Product / MVP",
+            "First customers / proof of viability",
+            "Tour (s) of tables made"
+        ],
+        "skill": "Requested skills",
+        "profile_looking": "More information about the desired profile (s)",
+        "website": "Website",
+        "video": "Video of the concept",
+        "fundraising": "Fundraising",
+        "fundraising_exploitation": "fundraising operation",
+        "team": "The team",
+        "amount_research": "Amount sought",
+        "shares_ceded": "Shares surrendered",
+        "valorization_society": "Valorisation of the company",
+        "amounts_raised": "Amounts already raised",
+        "add_member": "Add a member"
+    },
+    "project_detail": {
+        "skill_technology": "Skills / Technologies",
+        "description": "Description",
+        "project_begin": "The project starts",
+        "project_end": "The project ends"
+    },
+    "email": {
+        "contact_was_created": {
+            "title": "A provider has made an offer to one of your startups.",
+            "text": "To access your startup sheet, click here:",
+            "link_text": "Manage my startup"
+        },
+        "member_invitation": {
+            "text": "To access it, click here:",
+            "link_text": "Join My Projects"
+        },
+        "message_was_created": {
+            "title": "You have received a new message from",
+            "link_text": "Reply"
+        },
+        "milestone_was_accept": {
+            "text": "To access your milestone file, click here:",
+            "link_text": "Manage my project"
+        },
+        "milestone_was_approved": {
+            "text": "To access your milestone file, click here:",
+            "link_text": "Manage my project"
+        },
+        "milestone_was_created": {
+            "text": "To access your milestone file, click here:",
+            "link_text": "Manage my project"
+        },
+        "offer_was_updated": {
+            "title": "The offer of your project has been updated.",
+            "text": "To discuss details with your customer, click here:",
+            "link_text": "Thread"
+        },
+        "package_was_funded": {
+            "text": "To access your package sheet, click here:",
+            "link_text": "Manage my project"
+        },
+        "project_was_created": {
+            "title": "Your project has been successfully created.",
+            "text": "To access it, click here:",
+            "link_text": "My projects"
+        },
+        "proposal_was_accepted": {
+            "title": "Congratulations, you won a project.",
+            "text": "To discuss details with your customer, click here:",
+            "link_text": "My projects"
+        },
+        "proposal_was_created": {
+            "title": "A provider has made an offer to one of your projects.",
+            "text": "To access your project sheet, click here:",
+            "link_text": "Manage my project"
+        },
+        "service_message_was_created": {
+            "title": "You have received a new message from",
+            "link_text": "Reply"
+        },
+        "startup_message_was_created": {
+            "title": "You have received a new message from",
+            "link_text": "Reply"
+        },
+        "startup_was_created": {
+            "title": "Your startup has been successfully created.",
+            "text": "To access it, click here:",
+            "link_text": "My projects"
+        }
+    },
+    "user_projects": {
+        "title": "My projects",
+        "no_project_created": "No project created."
+    }
+}
